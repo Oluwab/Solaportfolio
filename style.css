@@ -16,3 +16,74 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
+
+a.fontblack{
+    color: #000000 !important;
+}
+/*************************
+
+ABOUT
+
+*************************/
+
+#about {
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+  }
+  #about img {
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-bottom: 10px;
+  }
+  #about .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #about .vocation {
+    font-size: 17px;
+    color: #000;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  #about .skills {
+    font-size: 25px;
+    color: #010802;
+    margin-bottom: 10px;
+  }
+  #about .contact {
+    font-size: 25px;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  #about .icons {
+    font-size: 40px;
+    margin-top: 20px;
+  }
+  #about .icons a {
+    color: black;
+  }
+
+/*************************
+
+PROJECT
+
+*************************/
+
+#project{
+    margin: 60px auto;
+    width: 80%;
+}
+
+#project h2{
+    text-align: center;
+}
+
+#project .card img{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
+}
