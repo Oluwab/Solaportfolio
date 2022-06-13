@@ -5,7 +5,7 @@ COMMON
 *************************/
 
 body{
-    font-family:"monospace",sans-serif; 
+    font-family: 'Lora', serif;
 }
     
 .font-primary{
@@ -43,18 +43,18 @@ ABOUT
   }
   #about .vocation {
     font-size: 17px;
-    color: #000;
+    color: #a8a8a8;
     margin-bottom: 10px;
     font-weight: bold;
   }
   #about .skills {
-    font-size: 25px;
-    color: #010802;
+    font-size: 17px;
+    color: #00abae;
     margin-bottom: 10px;
   }
   #about .contact {
     font-size: 25px;
-    color: #000000;
+    color: black;
     margin-bottom: 20px;
   }
   #about .icons {
