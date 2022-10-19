@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio project I will be using this to showcase my projects !
 
-[live demo](https://portfolio-nemesio.herokuapp.com/)
+[live demo](https://solaportfolio.oluwabusolaadej.repl.co/)
 
 
 
