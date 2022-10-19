@@ -8,7 +8,7 @@ This is my portfolio project I will be using this to showcase my projects !
 
 ## Technologies used
 
-<<<<<<< HEAD
+
 =======
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website Hosted by Heroku](https://portfolio-sola.herokuapp.com/)
