@@ -1,13 +1,23 @@
 # Portfolio
+This is my portfolio project i will be using this o showcase my projects !
 
-This is my Portfolio project
+[live demo](https://portfolio-nemesio.herokuapp.com/)
 
- Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Heroku]()
-## Tech used
+![Screen Shot 2022-07-28 at 21 06 21](https://user-images.githubusercontent.com/107975354/181652211-31580b7f-caaa-45d4-a12e-bf71c4d9c8d6.png)
+
+
+
+## Technologies used
+
 * HTML
 * CSS
+
+
+
 ## Installation
-No need to install anything, just open index.html.
-## How to use?
-Customize and create your own original portfolio. Take on various challenges such as changing colors, adding effects, and changing designs. Just include ABOUT, PROJECTS, and CONTACT information in your portfolio and don't get too complicated. Simple is the best.
+
+no need to install any software. just open up index.html
+
+## How to Use
+
+Use this template to build your own portfolio
